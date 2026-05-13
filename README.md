@@ -57,7 +57,7 @@ Sistemas de reportes, métricas y automatización de procesos empresariales.
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/antonio-tobias-6b7679167/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-tobias-6b7679167/)
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tuweb.com)-->
 

@@ -1,4 +1,4 @@
-## ¡Hola! soy <Antonio Tobias>  👋
+## ¡Hola! soy Antonio Tobias  👋
 
 ### Desarrollador Full Stack | Apasionado por crear soluciones digitales escalables 
 
